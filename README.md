@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="모프모야 로고" width="160" />
+</p>
+
 # 모프모야
 
 > 크레스티드 게코 사진으로 모프를 추정하고, 분양 소개글 작성을 돕는 AI 앱
